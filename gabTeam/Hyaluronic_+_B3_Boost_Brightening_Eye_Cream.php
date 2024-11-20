@@ -106,8 +106,7 @@
                     <li class="nav-item"><a class="nav-link" href="../aboutus.php">about us</a></li> 
                 </ul>  
             </nav>  
-            <div class="icons">  
-                <i class="bi bi-search"></i>  
+            <div class="icons">   
                 <i class="bi bi-person-circle"></i>  
                 <i class="bi bi-cart" id="cartIcon" style="cursor: pointer;"></i>  
             </div>  

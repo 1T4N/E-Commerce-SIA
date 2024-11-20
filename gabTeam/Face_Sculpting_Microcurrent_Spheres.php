@@ -108,7 +108,6 @@
                 </ul>  
             </nav>  
             <div class="icons">  
-                <i class="bi bi-search"></i>  
                 <i class="bi bi-person-circle"></i>  
                 <i class="bi bi-cart" id="cartIcon" style="cursor: pointer;"></i>  
             </div>  
@@ -245,7 +244,28 @@
         <a href="Payment.php?cartData=">
             <button class="checkout-btn" id="checkoutBtn" style="display: none;">Proceed to Checkout</button>
         </a>
-    </div>  
+    </div> 
+
+    <footer class="footer">   
+        <div class="footer-logo">  
+            <img src="img/Logo.png" alt="Logo" style="width: 80px;">  
+        </div>  
+        <div class="container text-center">    
+            <ul class="footer-links mt-3 list-unstyled d-flex justify-content-center">  
+                <li class="mx-3"><a href="#">about us</a></li>  
+                <li class="mx-3"><a href="#">store locator</a></li>  
+                <li class="mx-3"><a href="#">privacy policy</a></li>  
+                <li class="mx-3"><a href="#">FAQS</a></li>  
+                <li class="mx-3"><a href="#">shipping and returns</a></li>  
+                <li class="mx-3"><a href="#">terms and conditions</a></li>  
+            </ul>    
+        </div>
+        <div class="social-icons">  
+            <i class="bi bi-facebook"></i>  
+            <i class="bi bi-instagram"></i>  
+            <i class="bi bi-twitter"></i>  
+        </div>  
+    </footer>  
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>  
