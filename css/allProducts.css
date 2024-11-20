@@ -100,5 +100,6 @@ body{
     
 }
 .cart:hover{
-    background-color: #f08995; /* Optional: change background on hover */
+    background-color: #9c706e;
+    color: white; /* Optional: change background on hover */
 }

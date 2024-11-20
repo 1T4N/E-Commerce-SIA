@@ -107,8 +107,8 @@
                 </ul>  
             </nav>  
             <div class="icons">  
-                <!-- <i class="bi bi-search"></i>   -->
-                <a href="../aguilarTeam\login.php"><i class="bi bi-person-circle"></i></a>
+                <i class="bi bi-search"></i>  
+                <i class="bi bi-person-circle"></i>  
                 <i class="bi bi-cart" id="cartIcon" style="cursor: pointer;"></i>  
             </div>  
         </div>  
@@ -137,7 +137,7 @@
                     </select>
                 </div>
 
-                <button class="add-to-cart btn" onclick="addToCart('Hyaluronic + B3 Boost Brightening Eye Cream', 499, 'img/Skin/Hyaluronic + B3 Boost Brightening Eye Cream/IMG_0334.WEBP')">Add to Cart</button>
+                <button class="add-to-cart btn" onclick="addToCart('Hyaluronic + B3 Boost Brightening Eye Cream', 499, 'img/Skin/Hyaluronic + B3 Boost Brightening Eye Cream/IMG_0333.WEBP')">Add to Cart</button>
 
                 <div class="product-description mt-4">
                     <p>Hydrate and brighten the delicate eye area with this cream, formulated with hyaluronic acid and vitamin B3. It reduces dark circles and puffiness, providing gentle care for youthful-looking eyes.</p>

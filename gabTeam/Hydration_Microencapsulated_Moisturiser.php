@@ -107,8 +107,8 @@
                 </ul>  
             </nav>  
             <div class="icons">  
-                <!-- <i class="bi bi-search"></i>   -->
-                <a href="../aguilarTeam\login.php"><i class="bi bi-person-circle"></i></a>
+                <i class="bi bi-search"></i>  
+                <i class="bi bi-person-circle"></i>  
                 <i class="bi bi-cart" id="cartIcon" style="cursor: pointer;"></i>  
             </div>  
         </div>  
